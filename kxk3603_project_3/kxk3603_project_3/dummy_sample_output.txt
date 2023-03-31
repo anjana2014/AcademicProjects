@@ -1,0 +1,10 @@
+DEPTH = 1
+Accuracy | Train = 0.4 | Test =  0.4
+DEPTH = 2
+Accuracy | Train = 0.5 | Test =  0.5
+DEPTH = 3
+Accuracy | Train = 0.6 | Test =  0.6
+DEPTH = 4
+Accuracy | Train = 0.7 | Test =  0.7
+DEPTH = 5
+Accuracy | Train = 0.8 | Test =  0.8
